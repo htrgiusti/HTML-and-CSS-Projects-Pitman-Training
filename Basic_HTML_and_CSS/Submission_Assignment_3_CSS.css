@@ -1,0 +1,20 @@
+ol {
+	list-style-type: upper-roman;
+}
+ul {
+	list-style-type: square;
+}
+ol {
+	border: 1px solid silver;
+}
+ul {
+	border: 1px solid silver;
+}
+ol {
+	background-color: grey;
+	color: yellow;
+}
+ul {
+	background-color: grey;
+	color: yellow;
+}
